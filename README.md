@@ -41,9 +41,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arhan13&hide=TeX&layout=compact&theme=dark&hide_border=true)
 
 
-**If you like my work maybe buy me a coffee?**
-<br> <br>
-<a href="https://www.buymeacoffee.com/aryanpandey" target="_blank"><img src="images/bmc.webp" alt="Buy Me A Coffee"></a>
+
 
 [twitter]: https://twitter.com/arhan_choudhury
 [instagram]: https://www.instagram.com/arhanchoudhury/
