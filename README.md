@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 <img align="left" alt="MongoDB" width="30px" src="images/mongodb.png"/>
 <img align="left" alt="React" width="30px" src="images/react.png" />
 <img align="left" alt="Node.js" width="30px" src="images/nodejs.png" />
-<img align="left" alt="MySQL" width="30px" src="images/mysql.png" />
-<img align="left" alt="SQL" width="30px" src="images/sql.png" />
 <img align="left" alt="Solidity" width="30px"  src="images/eth.png" />
 <img align="left" alt="Tezos" width="30px" src="images/tezos.png" />
 <img align="left" alt="Visual Studio Code" width="30px" src="images/vscode.png" />
