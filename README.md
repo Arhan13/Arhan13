@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **a NFT platform**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Bonding Curves**
 
-- 👯 I’m looking to collaborate on **blockchain projects based on Tezos**
+- 👯 I’m looking to collaborate on **blockchain projects**
 
 - 👨‍💻 All of my projects are available at [arhanc.com](arhanc.com)
 
