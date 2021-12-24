@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arhan13" alt="arhan13" /></a> </p>
 
-- 🔭 I’m currently working on **a NFT platform**
+- 🔭 I’m currently working on **a NFT fractionization protocol**
 
-- 🌱 I’m currently learning **Bonding Curves**
+- 🌱 I’m currently learning **Bonding Curves and ERC-1155**
 
-- 👯 I’m looking to collaborate on **blockchain projects**
+- 👯 I’m looking to collaborate on **NFT projects**
 
 - 👨‍💻 All of my projects are available at [arhanc.com](arhanc.com)
 
