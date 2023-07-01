@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arhan13" alt="arhan13" /></a> </p>
 
-[![Arhan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Arhan13&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 - 🔭 I’m currently working on **a NFT fractionization protocol**
 
 - 🌱 I’m currently learning **Bonding Curves and ERC-1155**
