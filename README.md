@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arhan13" alt="arhan13" /></a> </p>
 
-- 🔭 I’m currently working on **a NFT fractionization protocol**
+- 🔭 I’m currently working on **RAG based LLMs**
 
-- 🌱 I’m currently learning **Bonding Curves and ERC-1155**
+- 🌱 I’m currently learning **Multi tenant services**
 
 - 👯 I’m looking to collaborate on **NFT projects**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [arhanc.com](arhanc.com)
 
-- 💬 Ask me about **cryptocurrencies**
+- 💬 Ask me about **nextjs, fastapi**
 
 - 📫 How to reach me **arhanchoudhury@gmail.com**
 
