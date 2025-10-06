@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arhan13" alt="arhan13" /></a> </p>
 
-- 🔭 I’m currently working on **RAG based chatbot**
+- 🔭 I’m currently working on **Agentic Code Gen**
 
-- 🌱 I’m currently learning **Multi tenant services**
+- 🌱 I’m currently learning **Agentic tooling for code gen**
 
-- 👯 I’m looking to collaborate on **NFT projects**
+- 👯 I’m looking to collaborate on **Vibe Trading**
 
 - 👨‍💻 All of my projects are available at [arhanc.com](arhanc.com)
 
